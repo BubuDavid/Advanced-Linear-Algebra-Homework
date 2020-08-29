@@ -1,6 +1,8 @@
 # Implementación del método de Gauss y Gauss-Jordan en Python
 
 ## Instrucciones:
+- Descargue toda la carpeta o haga un pull hasta su computadora.
+- Una vez tenga sus arcvhivos en su computadora siga los siguientes pasos: 
 - Escriba por favor, en un archivo llamado `matrix.txt`, los sistemas lineales o matrices a resolver, cada fila separada por un salto de línea y cada columna separada con espacios, además, cada sistema lineal (O matriz) separados por dos saltos de línea, a continuación un ejemplo:
 
 ```python
@@ -16,6 +18,8 @@
 3 -4 2 1
 2 -2 1 0
 ```
+
+- Abra el archivo ``Gauss_and_Gauss-Jordan_Methods``.
 - Corra por favor, todas las celdas, note que las celdas que dan la respuesta están justo debajo de los títulos _"Ejecutar código Gauss"_ y _"Ejecutar código Gauss-Jordan"_
 
 - Se crearán dos archivos llamados: `matrix_gauss_solutions.txt` y `matrix_gauss_jordan_solutions.txt` en donde se podrán encontrar las soluciones a los sistemas con el método de Gauss y con el método de Gauss-Jordan, de igual forma las soluciones apareceran en el output de la celda o en la línea de comandos, depende de donde se ejecute el código.
