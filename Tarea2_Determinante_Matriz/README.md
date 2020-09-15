@@ -19,6 +19,7 @@
 9 5 4 1 8 1
 2 6 4 4 1 1
 ```
+- Abra el archivo ``Matrix_Determinant_Calculator.ipynb`` (Note que necesita jupyter notebook).
 - Corra por favor, todas las celdas, note que las celdas que dan la respuesta están justo debajo de los títulos _"Calcular Determinante"_.
 
 - Se creará un archivo llamado: `Determinants.txt` las determinantes de cada matrix dada, de igual forma las soluciones apareceran en el output de la celda o en la línea de comandos, depende de donde se ejecute el código.
